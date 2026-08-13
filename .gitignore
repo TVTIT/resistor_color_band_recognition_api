@@ -1,0 +1,7 @@
+*.jpg
+.venv
+__pycache__
+.env
+
+*.md
+!README.md
