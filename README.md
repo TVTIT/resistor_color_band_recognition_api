@@ -151,5 +151,6 @@ Xem chi tiết tất cả các trường hợp response tại [api_responses.md]
 
 API chắc hẳn còn nhiều thiếu sót. Vì đây là repo mã nguồn mở nên nếu bạn muốn đóng góp hãy [tạo 1 Pull request](https://github.com/TVTIT/resistor_color_band_recognition_api/pulls) hoặc [tạo 1 Issue](https://github.com/TVTIT/resistor_color_band_recognition_api/issues/new).
 
-## Giấy phép (License) ![GitHub License](https://img.shields.io/github/license/TVTIT/electronic_component_storage_app)
+## Giấy phép (License) ![GitHub License](https://img.shields.io/github/license/TVTIT/resistor_color_band_recognition_api)
+
 Dự án được phân phối dưới giấy phép MIT
