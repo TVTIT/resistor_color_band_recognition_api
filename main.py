@@ -195,7 +195,7 @@ def determine_correct_orientation(filtered_bands: list) -> list:
     Dựa trên khoảng cách hình học (Gap) và tính hợp lý của giá trị Ohm (Sanity Check)
     """
     # Lấy mảng màu gốc đọc từ Trái sang Phải
-    colors_l_to_r = [b["color"].replace('band_', '').lower() for b in filtered_bands]
+    colors_l_to_r = [b["color"].lower() for b in filtered_bands]
     colors_r_to_l = list(reversed(colors_l_to_r))
     
     #PHÂN TÍCH KHOẢNG CÁCH HÌNH HỌC (GAP ANALYSIS)
