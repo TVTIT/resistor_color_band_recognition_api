@@ -5,3 +5,4 @@ __pycache__
 
 *.md
 !README.md
+!api_responses.md
